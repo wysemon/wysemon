@@ -44,7 +44,7 @@ interests:
 
 ### `ls projects/`
 
-**[EasyEDA-Std.-2Kicad](https://github.com/wysemon/EasyEDA-Std.-2Kicad)** — Convert public EasyEDA Standard components into local KiCad symbol and footprint libraries.
+**[euc2k.py](https://github.com/wysemon/euc2k.py)** — Convert public EasyEDA Standard components into local KiCad symbol and footprint libraries.
 
 ### `echo $PHILOSOPHY`
 
